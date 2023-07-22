@@ -18,7 +18,7 @@ I used the following to build this:
 ## Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [3-Column_Preview_Card](https://quest82.github.io/3-Column_Preview_Card/)
 
 ## Author
 
