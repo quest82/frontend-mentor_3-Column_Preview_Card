@@ -1,4 +1,3 @@
-
 # Overview
 
 The challenge was to build out this 3-column preview card component and get it looking as close to the design as possible.
@@ -13,12 +12,12 @@ I used the following to build this:
 
 ## Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./Screenshot.jpg)
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [3-Column_Preview_Card](https://quest82.github.io/3-Column_Preview_Card/)
+- Solution URL: [Add solution URL here](https://github.com/quest82/frontend-mentor_3-Column_Preview_Card)
+- Live Site URL: [3-Column_Preview_Card](https://quest82.github.io/frontend-mentor_3-Column_Preview_Card/)
 
 ## Author
 
